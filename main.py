@@ -104,16 +104,16 @@ def analyze_matchup(team1, team2, data):
 
 # Mapping leagues to their CSV URLs
 league_mapping = {
-    "Premier League": "https://www.football-data.co.uk/mmz4281/2324/E0.csv",
-    "Bundesliga": "https://www.football-data.co.uk/mmz4281/2324/D1.csv",
-    "Serie A": "https://www.football-data.co.uk/mmz4281/2324/I1.csv",
-    "La Liga": "https://www.football-data.co.uk/mmz4281/2324/SP1.csv",
-    "Ligue 1": "https://www.football-data.co.uk/mmz4281/2324/F1.csv",
-    "Eredivisie": "https://www.football-data.co.uk/mmz4281/2324/N1.csv",
-    "Belgian Pro League": "https://www.football-data.co.uk/mmz4281/2324/B1.csv",
-    "Primeira Liga": "https://www.football-data.co.uk/mmz4281/2324/P1.csv",
-    "Turkish Super Lig": "https://www.football-data.co.uk/mmz4281/2324/T1.csv",
-    "Greek Super League": "https://www.football-data.co.uk/mmz4281/2324/G1.csv"
+    "Premier League": "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
+    "Bundesliga": "https://www.football-data.co.uk/mmz4281/2425/D1.csv",
+    "Serie A": "https://www.football-data.co.uk/mmz4281/2425/I1.csv",
+    "La Liga": "https://www.football-data.co.uk/mmz4281/2425/SP1.csv",
+    "Ligue 1": "https://www.football-data.co.uk/mmz4281/2425/F1.csv",
+    "Eredivisie": "https://www.football-data.co.uk/mmz4281/2425/N1.csv",
+    "Belgian Pro League": "https://www.football-data.co.uk/mmz4281/2425/B1.csv",
+    "Primeira Liga": "https://www.football-data.co.uk/mmz4281/2425/P1.csv",
+    "Turkish Super Lig": "https://www.football-data.co.uk/mmz4281/2425/T1.csv",
+    "Greek Super League": "https://www.football-data.co.uk/mmz4281/2425/G1.csv"
 }
 
 
